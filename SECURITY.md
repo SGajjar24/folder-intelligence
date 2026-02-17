@@ -14,7 +14,7 @@ We take the security of `folder-intelligence` seriously. Integrating this tool i
 If you discover a security vulnerability (e.g., potential for data loss, PII leakage, or unsafe file operations), please do **NOT** open a public issue.
 
 ### Immediate Action
-Please email the maintainer directly: **swetang.gajjar@gmail.com**
+Please email the maintainer directly: **gajjarswetang@gmail.com**
 
 ### Information to Include
 1.  **Type of Issue:** (e.g., PII Leak, Unintended Deletion, Path Traversal)
