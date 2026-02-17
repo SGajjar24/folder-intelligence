@@ -1,0 +1,32 @@
+{
+    "categories": {
+        "01_Legal_Proceedings": [
+            "court", "order", "judgement", "petition", "affidavit", "vakilatnama", "summon", "notice",
+            "દસ્તાવેજ", "રજીસ્ટર", "નોટીસ", "કેસ", "civil", "advocate", "high court"
+        ],
+        "02_Land_Records": [
+            "7/12", "૮-અ", "હુકમ", "7-12", "village form", "pani patrak", "mutation", "ferfar", "khedut",
+            "૭/૧૨", "form no", "revenue", "mamlatdar", "collector"
+        ],
+        "03_Sale_Deeds": [
+            "sale deed", "banakhat", "vechan", "dastavej", "index 2", "registered", "વેચાણ", "ખરીદ"
+        ],
+        "04_Maps_and_Technicals": [
+            "map", "naksha", "plan", "survey", "sketch", "site plan", "measurement", "નકશા", "drawings", "t.p."
+        ],
+        "05_Correspondence_RTI": [
+            "rti", "letter", "application", "reply", "inward", "outward", "post", "mail", "અરજી", "જવાબ"
+        ],
+        "06_Evidence_Media": [
+            ".mp3", ".mp4", ".wav", ".m4a", ".mov", ".avi", "recording", "call", "transcript"
+        ],
+        "99_Unsorted": []
+    },
+    "blocked_dirs": [
+        "C:\\Windows",
+        "C:\\Program Files",
+        "C:\\Program Files (x86)",
+        "C:\\Users",
+        "C:\\"
+    ]
+}
