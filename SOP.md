@@ -37,6 +37,11 @@
     - **Incorrect:** `Invoice Oct 15 Acme.pdf` (Not sortable), `2023_10_15...` (Underscores in date allowed but Hyphens preferred for ISO).
 - **Rationale:** Ensures files sort chronologically by default in ALL operating systems.
 
+### Rule 2.1: Identity Document Versioning
+- **Context:** For renewable documents (Passports, Licenses).
+- **Rule:** Use the **Issue Date** (Start Date), NOT the Expiry Date.
+- **Rationale:** Sorting by Issue Date keeps history chronological (`2010_Passport`, `2020_Passport`). Using Expiry Date messes up the timeline of "creation".
+
 ### Rule 3: Hash-Based Truth
 - **Constraint:** Never delete a file based on name alone.
 - **Enforcement:** Deletion or Archival requires a SHA-256 hash match.
