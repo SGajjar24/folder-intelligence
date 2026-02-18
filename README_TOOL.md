@@ -1,5 +1,7 @@
 # Universal Folder Organizer (Project Phoenix)
 
+**Repository:** [SGajjar24/folder-intelligence](https://github.com/SGajjar24/folder-intelligence)
+
 A powerful, **Local AI-driven** CLI tool to organize chaotic folders into structured archives.
 
 ## 🚀 Features
