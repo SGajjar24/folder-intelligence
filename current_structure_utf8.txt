@@ -1,0 +1,110 @@
+﻿\Contract
+\Evidence
+\Land_Records
+\Legal
+\Report
+\RTI_And_Correspondence
+\Sale_Deeds
+\Technical
+\Unsorted_Documents
+\README.md
+\Contract\2022-01-01_Legal_2022 Notary.pdf
+\Contract\README.md
+\Evidence\Multimedia
+\Evidence\README.md
+\Evidence\Multimedia\2025-11-14_SYSTEMDATE_Document_કેસમાં_મિલકત_વેચી_કો.m4a
+\Evidence\Multimedia\2025-11-14_SYSTEMDATE_Document_કેસમાં_મિલકત_વેચી_કો.mp3
+\Evidence\Multimedia\2025-11-14_SYSTEMDATE_Document_વડીલોપાર્જિત_મિલકતનો.mp4
+\Evidence\Multimedia\2025-11-14_SYSTEMDATE_Document_વારસા_પર_કબજો_મિલકત.mp4
+\Evidence\Multimedia\2025-11-14_SYSTEMDATE_Document_વારસાગત_વિવાદ_જીતવા_.m4a
+\Evidence\Multimedia\2025-11-14_SYSTEMDATE_Document_વારસાગત_વિવાદ_જીતવા_.mp3
+\Evidence\Multimedia\2025-11-14_SYSTEMDATE_Document_વારસો,_વેચાણ_અને_કોર.mp4
+\Evidence\Multimedia\2025-11-16_SYSTEMDATE_Document_Part 2 મહેસૂલી_અપીલો.mp4
+\Evidence\Multimedia\2025-11-16_SYSTEMDATE_Document_Part 3 ધ_લિસ_પેન્ડેન.mp4
+\Evidence\Multimedia\2025-11-16_SYSTEMDATE_Document_કાગળની_જાળ_૨૦_વર્ષન.mp4
+\Evidence\Multimedia\2025-11-16_SYSTEMDATE_Document_પૂર્વજોની_જમીન_૨૦_વ.mp4
+\Evidence\Multimedia\2025-11-16_SYSTEMDATE_Document_ભાગ_૧_શાંત_છળકપટ.mp4
+\Evidence\Multimedia\README.md
+\Land_Records\Maps
+\Land_Records\Sale_Deeds
+\Land_Records\Survey_1200
+\Land_Records\Survey_2304
+\Land_Records\Survey_2306
+\Land_Records\Survey_2313
+\Land_Records\2016-11-13_Document_આંક-૫ ની લેખીત દલીલો.pdf
+\Land_Records\2025-07-14_Document_ત્રાહીત પક્ષકાર વિરૂ.pdf
+\Land_Records\2025-07-14_Document_પક્ષકાર અરજી- સવીતાબ.pdf
+\Land_Records\2025-07-14_Document_સુધારા અરજી- સવીતાળા.pdf
+\Land_Records\README.md
+\Land_Records\Maps\2023-04-24_SYSTEMDATE_Document_2306 and 2304 map.pdf
+\Land_Records\Maps\2023-04-24_SYSTEMDATE_Document_2313 and 2397 map.pdf
+\Land_Records\Maps\2023-04-24_SYSTEMDATE_Document_Karannagar Land Map.pdf
+\Land_Records\Maps\2023-04-24_SYSTEMDATE_Document_Karannagar Land Map_1.pdf
+\Land_Records\Maps\2025-03-29_SYSTEMDATE_Document_karannagar map.pdf
+\Land_Records\Maps\README.md
+\Land_Records\Sale_Deeds\2022-10-13_Legal_2300 sale deed.pdf
+\Land_Records\Sale_Deeds\2022-10-13_Legal_2300 sale deed_compr.pdf
+\Land_Records\Sale_Deeds\2024-01-01_Legal_2306 sale deed 1-202.pdf
+\Land_Records\Sale_Deeds\2024-07-30_Legal_2306  sale deed.pdf
+\Land_Records\Sale_Deeds\2024-08-16_HR_2301 sale deed.pdf
+\Land_Records\Sale_Deeds\2024-08-16_HR_2301 sale deed_compr.pdf
+\Land_Records\Sale_Deeds\2024-08-16_Legal_2305 sale deed.pdf
+\Land_Records\Sale_Deeds\2024-08-16_Legal_2305 sale deed_compr.pdf
+\Land_Records\Sale_Deeds\2025-01-01_Legal_2306 sale deed 2-202.pdf
+\Land_Records\Sale_Deeds\2025-01-01_Legal_2306 sale deed 3-202.pdf
+\Land_Records\Sale_Deeds\2025-01-01_Legal_2306 sale deed 3-202.txt
+\Land_Records\Sale_Deeds\2025-01-01_Legal_2306 sale deed 3-202_1.pdf
+\Land_Records\Sale_Deeds\2025-07-09_Legal_2304 Sale deed.pdf
+\Land_Records\Sale_Deeds\2025-07-09_Legal_2304 sale deed_compr.pdf
+\Land_Records\Sale_Deeds\2025-09-02_Legal_2306 Sale deed.pdf
+\Land_Records\Sale_Deeds\README.md
+\Land_Records\Survey_1200\2026-01-29_SYSTEMDATE_Document_1200 land revenue re.pdf
+\Land_Records\Survey_1200\README.md
+\Land_Records\Survey_2304\2016-12-20_Document_download_order2304-2.pdf
+\Land_Records\Survey_2304\2017-06-19_Document_HR_Dept_download_order2304-1.pdf
+\Land_Records\Survey_2304\2017-07-14_Document_download_order2304-3.pdf
+\Land_Records\Survey_2304\2017-07-14_Document_download_order2304-4.pdf
+\Land_Records\Survey_2304\2019-10-17_Report_2304 search report.pdf
+\Land_Records\Survey_2304\2021-11-16_Technical_HR_Dept_Jayshree land 2304.pdf
+\Land_Records\Survey_2304\2023-02-09_Document_download_order2304-5.pdf
+\Land_Records\Survey_2304\2025-07-14_Document_2304 revenue records.pdf
+\Land_Records\Survey_2304\2025-07-14_Document_2304 updated Hukam.jpeg
+\Land_Records\Survey_2304\2025-10-16_Technical_2304.pdf
+\Land_Records\Survey_2304\README.md
+\Land_Records\Survey_2306\2022-03-15_Technical_Majiyara land 2306.pdf
+\Land_Records\Survey_2306\2022-07-15_Document_download_order2306.pdf
+\Land_Records\Survey_2306\2023-02-03_Report_2306 search report.pdf
+\Land_Records\Survey_2306\2024-05-24_Document_HR_Dept_Kachi entry 2306.pdf
+\Land_Records\Survey_2306\2025-09-12_Document_2306 revenue records.pdf
+\Land_Records\Survey_2306\2025-10-29_Technical_2306.pdf
+\Land_Records\Survey_2306\2026-01-03_SYSTEMDATE_Document_2306 banakhat.pdf
+\Land_Records\Survey_2306\README.md
+\Land_Records\Survey_2313\2021-11-16_Technical_HR_Dept_Jayshree land 2313.pdf
+\Land_Records\Survey_2313\README.md
+\Legal\2004-08-23_Document_Revenue Record Infor.pdf
+\Legal\README.md
+\Report\2004-01-01_Identification_HR_Dept_2004 document inform.pdf
+\Report\README.md
+\RTI_And_Correspondence\2025-07-14_Legal_SUB RGISTRAR RTI.pdf
+\RTI_And_Correspondence\2026-01-19_SYSTEMDATE_Correspondence_Mamlatdar RTI.pdf
+\RTI_And_Correspondence\2026-01-19_SYSTEMDATE_Document_Mamlatdar RTI.docx
+\RTI_And_Correspondence\2026-01-19_SYSTEMDATE_Document_SUB RGISTRAR RTI.docx
+\RTI_And_Correspondence\2026-01-29_Correspondence_Right to Information.pdf
+\RTI_And_Correspondence\2026-01-29_SYSTEMDATE_Document_NARMADA NIGAM RTI.docx
+\RTI_And_Correspondence\2026-01-29_SYSTEMDATE_Invoice_NARMADA NIGAM RTI.pdf
+\RTI_And_Correspondence\README.md
+\Sale_Deeds\2022-10-14_Invoice_Internal_TEP_Karannagar_Land_.pdf
+\Sale_Deeds\README.md
+\Technical\2021-11-16_Technical_HR_Dept_Jayshree land.pdf
+\Technical\2023-08-12_Technical_Jagdishkumar Zulasan.pdf
+\Technical\2023-08-12_Technical_Jagdishkumar Zulasan_1.pdf
+\Technical\2026-01-01_Technical_JIGNESHKUMAR PATEL L.pdf
+\Technical\Jagdishkumar Zulasan 4.pdf
+\Technical\Jagdishkumar Zulasan.pdf
+\Technical\README.md
+\Unsorted_Documents\2022-10-20_Document_2300 index 2.pdf
+\Unsorted_Documents\2025-09-02_Document_123.txt
+\Unsorted_Documents\2025-09-02_Document_output 2.txt
+\Unsorted_Documents\2025-11-16_SYSTEMDATE_Document_No 5 and 6 answer.pdf
+\Unsorted_Documents\2026-02-12_SYSTEMDATE_Document_output.txt
+\Unsorted_Documents\README.md

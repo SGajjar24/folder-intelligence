@@ -1,20 +1,20 @@
-<p align="center">
-  <h1 align="center">🧠 Folder Intelligence</h1>
-  <p align="center"><strong>The Complete File System Optimization Pipeline</strong></p>
-  <p align="center">Audit → Declutter → Rename → Deduplicate → Document — in one toolkit.</p>
-</p>
+<div align="center">
+  <h1>🧠 Folder Intelligence</h1>
+  <p><strong>The File System Cortex for AI Agents</strong></p>
+  <p>Audit → Declutter → Rename → Deduplicate → Document — in one toolkit.</p>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="Python 3.9+"></a>
   <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code Style: Black"></a>
-  <img src="https://img.shields.io/badge/AI_Model-None_Required-brightgreen" alt="No AI Model Required">
-  <img src="https://img.shields.io/badge/dedupe-SHA--256-blueviolet" alt="SHA-256 Deduplication">
-</p>
+  <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <img src="https://img.shields.io/badge/Maintenance-Active-green" alt="Maintenance">
+</div>
 
 ---
 
-> **"Other tools organize files. We build self-documenting, enterprise-grade archives."**
+> **"Your AI Agent is blind. Folder Intelligence gives it sight."**
 
 ---
 

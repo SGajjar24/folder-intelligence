@@ -2,7 +2,8 @@
 # Universal Folder Optimization Configuration
 
 # 1. Target Directory (Can be overridden by CLI args)
-DEFAULT_TARGET_DIR = r"./sample_data"
+TARGET_DIR = r"C:\Users\sam\Desktop\02_Personal_Finance\KARANNAGAR CASE"
+DEFAULT_TARGET_DIR = TARGET_DIR
 
 # 2. File Type Categorization (Extension -> Category)
 FILE_EXTENSIONS = {
@@ -34,8 +35,8 @@ KEYWORDS = {
 # Customize for your organization
 ENTITIES = {
     "Internal": ["internal", "confidential", "proprietary"],
-    "Client_A": ["client a", "acme corp", "acme"],
-    "Vendor_X": ["vendor x", "supplier y"],
+    "Globex_Corp": ["globex corporation", "globex"],
+    "Client_Acme": ["acme corp", "project x"],
     "HR_Dept": ["human resources", "hr", "people ops"],
     "Finance_Dept": ["finance", "accounting", "cfo"],
 }
