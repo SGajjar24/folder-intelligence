@@ -8,6 +8,24 @@ A powerful, **Local AI-driven** CLI tool to organize chaotic folders into struct
 *   **Safe:** Always runs in **Dry Run** mode first. Requires explicit confirmation to move files.
 *   **Configurable:** Define your own categories and keywords in `default_config.json`.
 
+## 📊 How It Works (The Logic Flow)
+```mermaid
+graph TD
+    A[Start: Scan File] --> B{Is it Media?}
+    B -- Yes (mp3/mp4) --> C[Category: Evidence_Media]
+    B -- No --> D{Is it Text PDF?}
+    D -- Yes --> E[Extract Text]
+    D -- No (Image/Scan) --> F[Run Tesseract OCR]
+    F --> E
+    E --> G{Find Date?}
+    G -- Found in Text --> H[Use Content Date]
+    G -- Not Found --> I[Use System Date]
+    H --> J[Match Keywords]
+    I --> J
+    J --> K[Determine Category]
+    K --> L[Move & Rename File]
+```
+
 ## 📦 Installation
 1.  **Requirements:**
     *   Python 3.8+
